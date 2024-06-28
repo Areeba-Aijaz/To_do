@@ -1,0 +1,9 @@
+.Del-btn{
+    border: 1px solid rgb(92, 90, 90);
+    box-shadow: 4px 4px 4px rgb(49, 49, 49);
+    background-color: coral;
+    border-radius: 15px;
+    padding: 10px 20px;
+    font-weight: bold;
+    cursor: pointer;
+}

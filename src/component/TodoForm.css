@@ -1,0 +1,18 @@
+.Add-todo-btn{
+   padding: 10px 20px; 
+   border: 1px solid gray;
+   box-shadow: 3px 3px 3px rgb(88, 88, 88);
+   border-radius: 20px;
+   cursor: pointer;
+   font-weight: bold;
+   background-color: rgb(255, 124, 77);
+   color: white;
+   text-shadow: 2px 2px 2px black;
+   margin-left: 5px;
+}
+.Add-todo-input{
+    padding: 10px 25px; 
+    font-size: large;
+    border-radius: 10px;
+    background-color: rgb(237, 237, 237);
+}
